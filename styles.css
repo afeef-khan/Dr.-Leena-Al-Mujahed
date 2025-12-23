@@ -1490,7 +1490,7 @@ footer::after {
   section#hero {
     padding: 0 20px;
     height: auto;
-    min-height: 100vh;
+    min-height: 80vh;
     padding-top: 100px;
     padding-bottom: 80px;
     background-image: url(assets/hero-eg-mob.jpg);
