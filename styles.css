@@ -477,9 +477,9 @@ section#hero::after {
 }
 
 .cta-secondary {
-  background-color: var(--accent);
-  /* border: 2px solid var(--secondary); */
-  color: var(--primary);
+  background-color: transparent;
+  border: 2px solid var(--light);
+  color: var(--light);
   /* padding: 16px 40px; */
 }
 
